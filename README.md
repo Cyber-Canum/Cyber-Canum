@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning Unity
 - 💞️ [none]
-- 📫 cybercanumvenaticorum@gmail.com
+- 📫 CyberCanumVenaticorum@gmail.com
 
 <!---
 Cyber-Canum/Cyber-Canum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
